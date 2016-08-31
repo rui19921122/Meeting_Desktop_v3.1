@@ -1,0 +1,255 @@
+2016-08-24 21:24:38,232 - entry.py:56 - tst - test
+2016-08-24 21:24:38,247 - entry.py:34 - tst - FileNotFoundError: [Errno 2] No such file or directory: './OSXLite.qss'
+2016-08-24 21:24:51,853 - entry.py:56 - tst - test
+2016-08-24 21:24:51,868 - entry.py:34 - tst - RuntimeError: super-class __init__() of type MainWindowLogic was never called
+2016-08-24 21:25:15,397 - entry.py:56 - tst - test
+2016-08-24 21:28:59,979 - entry.py:56 - tst - test
+2016-08-24 21:48:33,632 - entry.py:34 - tst - TypeError: arguments did not match any overloaded call:
+  QPushButton(QWidget parent=None): argument 1 has unexpected type 'tuple'
+  QPushButton(str, QWidget parent=None): argument 1 has unexpected type 'tuple'
+  QPushButton(QIcon, str, QWidget parent=None): argument 1 has unexpected type 'tuple'
+2016-08-24 21:48:48,991 - entry.py:34 - tst - TypeError: QAbstractButton.setIcon(QIcon): argument 1 has unexpected type 'QPixmap'
+2016-08-24 21:50:19,561 - entry.py:34 - tst - TypeError: QAbstractButton.setIcon(QIcon): argument 1 has unexpected type 'QPixmap'
+2016-08-24 21:51:31,725 - entry.py:34 - tst - TypeError: QAbstractButton.setIcon(QIcon): argument 1 has unexpected type 'QPixmap'
+2016-08-24 21:51:43,008 - entry.py:34 - tst - TypeError: QAbstractButton.setIcon(QIcon): argument 1 has unexpected type 'QPixmap'
+2016-08-24 21:52:04,649 - entry.py:34 - tst - TypeError: QAbstractButton.setIcon(QIcon): argument 1 has unexpected type 'QPixmap'
+2016-08-24 21:52:38,135 - entry.py:34 - tst - TypeError: QAbstractButton.setIcon(QIcon): argument 1 has unexpected type 'QPixmap'
+2016-08-24 21:52:46,591 - entry.py:34 - tst - TypeError: QAbstractButton.setIcon(QIcon): argument 1 has unexpected type 'QPixmap'
+2016-08-24 21:53:56,849 - entry.py:34 - tst - TypeError: QAbstractButton.setIcon(QIcon): argument 1 has unexpected type 'QPixmap'
+2016-08-24 21:54:04,944 - entry.py:34 - tst - TypeError: QAbstractButton.setIcon(QIcon): argument 1 has unexpected type 'QPixmap'
+2016-08-24 22:16:11,163 - entry.py:34 - tst - TypeError: QPixmap.load(str, str format=None, Qt.ImageConversionFlags flags=Qt.AutoColor): argument 1 has unexpected type 'QWidget'
+2016-08-24 22:22:14,262 - entry.py:34 - tst - NameError: name 'widget' is not defined
+2016-08-24 22:26:47,660 - entry.py:34 - tst - TypeError: PyQt5.QtWidgets.QLayout represents a C++ abstract class and cannot be instantiated
+2016-08-24 22:28:40,864 - entry.py:34 - tst - TypeError: arguments did not match any overloaded call:
+  QSpacerItem(int, int, QSizePolicy.Policy hPolicy=QSizePolicy.Minimum, QSizePolicy.Policy vPolicy=QSizePolicy.Minimum): not enough arguments
+  QSpacerItem(QSpacerItem): not enough arguments
+2016-08-24 22:30:17,626 - entry.py:34 - tst - TypeError: QBoxLayout.addWidget(QWidget, int stretch=0, Qt.Alignment alignment=0): argument 1 has unexpected type 'QSpacerItem'
+2016-08-24 22:31:19,459 - entry.py:34 - tst - AttributeError: 'MainWindowLogic' object has no attribute 'label'
+2016-08-24 22:32:50,730 - entry.py:34 - tst - TypeError: QBoxLayout.setStretch(int, int): not enough arguments
+2016-08-24 22:39:58,639 - entry.py:34 - tst - TypeError: arguments did not match any overloaded call:
+  QGridLayout(QWidget): argument 1 has unexpected type 'int'
+  QGridLayout(): too many arguments
+2016-08-24 22:40:15,367 - entry.py:34 - tst - TypeError: arguments did not match any overloaded call:
+  QGridLayout(QWidget): argument 1 has unexpected type 'int'
+  QGridLayout(): too many arguments
+2016-08-24 22:42:30,664 - entry.py:34 - tst - TypeError: arguments did not match any overloaded call:
+  QSpacerItem(int, int, QSizePolicy.Policy hPolicy=QSizePolicy.Minimum, QSizePolicy.Policy vPolicy=QSizePolicy.Minimum): not enough arguments
+  QSpacerItem(QSpacerItem): not enough arguments
+2016-08-24 22:42:50,506 - entry.py:34 - tst - TypeError: PyQt5.QtWidgets.QLayout represents a C++ abstract class and cannot be instantiated
+2016-08-24 22:42:57,947 - entry.py:34 - tst - TypeError: PyQt5.QtWidgets.QLayout represents a C++ abstract class and cannot be instantiated
+2016-08-24 22:45:31,585 - entry.py:34 - tst - TypeError: QGridLayout.setColumnStretch(int, int): not enough arguments
+2016-08-24 22:51:23,137 - entry.py:34 - tst - TypeError: 'SizeConstraint' object is not callable
+2016-08-24 23:00:18,022 - entry.py:34 - tst - AttributeError: 'builtin_function_or_method' object has no attribute 'connect'
+2016-08-24 23:06:39,087 - entry.py:34 - tst - TypeError: QBoxLayout.setStretch(int, int): not enough arguments
+2016-08-24 23:06:55,314 - entry.py:34 - tst - TypeError: QBoxLayout.setStretch(int, int): not enough arguments
+2016-08-24 23:07:02,965 - entry.py:34 - tst - TypeError: QBoxLayout.setStretch(int, int): not enough arguments
+2016-08-24 23:07:11,370 - entry.py:34 - tst - TypeError: QBoxLayout.setStretch(int, int): not enough arguments
+2016-08-24 23:16:57,216 - entry.py:34 - tst - AttributeError: 'MainWindowLogic' object has no attribute 'settings'
+2016-08-24 23:29:13,288 - entry.py:34 - tst - TypeError: QMainWindow.setCentralWidget(QWidget): argument 1 has unexpected type 'PyQt5.QtCore.pyqtWrapperType'
+2016-08-24 23:33:55,154 - entry.py:34 - tst - NameError: name 'LoginForm' is not defined
+2016-08-24 23:34:16,533 - entry.py:34 - tst - TypeError: QMainWindow.setCentralWidget(QWidget): argument 1 has unexpected type 'PyQt5.QtCore.pyqtWrapperType'
+2016-08-24 23:39:14,780 - entry.py:34 - tst - RuntimeError: super-class __init__() of type LoginForm was never called
+2016-08-24 23:39:19,480 - entry.py:34 - tst - AttributeError: 'LoginForm' object has no attribute 'LoginButton'
+2016-08-24 23:39:37,536 - entry.py:34 - tst - AttributeError: 'LoginForm' object has no attribute 'LoginButton'
+2016-08-24 23:39:55,867 - entry.py:34 - tst - AttributeError: 'MainWindowLogic' object has no attribute 'warn'
+2016-08-24 23:45:24,280 - entry.py:34 - tst - AttributeError: 'MainWindowLogic' object has no attribute 'warn'
+2016-08-24 23:46:10,054 - entry.py:34 - tst - AttributeError: 'NoneType' object has no attribute 'show'
+2016-08-24 23:46:25,465 - entry.py:34 - tst - AssertionError: 
+2016-08-25 08:38:39,921 - entry.py:34 - tst - AssertionError: 
+2016-08-25 09:24:24,886 - entry.py:34 - tst - AssertionError: 
+2016-08-25 09:24:53,325 - entry.py:34 - tst - AssertionError: 
+2016-08-25 09:26:14,441 - entry.py:34 - tst - AttributeError: 'MainWindowLogic' object has no attribute 'session'
+2016-08-25 09:35:38,409 - entry.py:34 - tst - AttributeError: 'MainWindowLogic' object has no attribute 'setCentralWidget'
+2016-08-25 09:37:10,907 - entry.py:34 - tst - AttributeError: 'MainWindowLogic' object has no attribute 'addDockWidget'
+2016-08-25 09:37:27,271 - entry.py:34 - tst - AttributeError: 'MainWindowLogic' object has no attribute 'addDockWidget'
+2016-08-25 09:37:29,891 - entry.py:34 - tst - AttributeError: 'MainWindowLogic' object has no attribute 'dockWidget'
+2016-08-25 10:15:04,300 - entry.py:34 - tst - TypeError: arguments did not match any overloaded call:
+  QRect(): too many arguments
+  QRect(int, int, int, int): not enough arguments
+  QRect(QPoint, QPoint): argument 1 has unexpected type 'int'
+  QRect(QPoint, QSize): argument 1 has unexpected type 'int'
+  QRect(QRect): argument 1 has unexpected type 'int'
+2016-08-25 10:15:13,097 - entry.py:34 - tst - TypeError: arguments did not match any overloaded call:
+  QWidget.setGeometry(QRect): argument 1 has unexpected type 'int'
+  QWidget.setGeometry(int, int, int, int): not enough arguments
+2016-08-25 10:15:32,872 - entry.py:34 - tst - AssertionError: 
+2016-08-25 10:20:50,349 - entry.py:34 - tst - TypeError: QBoxLayout.setStretch(int, int): not enough arguments
+2016-08-25 10:52:00,217 - entry.py:34 - tst - TypeError: QTimer(QObject parent=None): argument 1 has unexpected type 'builtin_function_or_method'
+2016-08-25 11:05:25,588 - entry.py:34 - tst - AttributeError: 'QStackedWidget' object has no attribute 'setStackingMode'
+2016-08-25 11:05:45,539 - entry.py:34 - tst - TypeError: QBoxLayout.addLayout(QLayout, int stretch=0): argument 1 has unexpected type 'QStackedWidget'
+2016-08-25 11:11:12,830 - entry.py:34 - tst - TypeError: QStackedLayout.insertWidget(int, QWidget): argument 1 has unexpected type 'Warning'
+2016-08-25 11:21:49,415 - entry.py:34 - tst - TypeError: arguments did not match any overloaded call:
+  QPalette.setBrush(QPalette.ColorGroup, QPalette.ColorRole, QBrush): argument 1 has unexpected type 'ColorRole'
+  QPalette.setBrush(QPalette.ColorRole, QBrush): argument 2 has unexpected type 'QPixmap'
+2016-08-25 11:23:20,645 - entry.py:34 - tst - TypeError: arguments did not match any overloaded call:
+  QPalette.setBrush(QPalette.ColorGroup, QPalette.ColorRole, QBrush): argument 1 has unexpected type 'ColorRole'
+  QPalette.setBrush(QPalette.ColorRole, QBrush): argument 2 has unexpected type 'QPixmap'
+2016-08-25 11:35:15,704 - entry.py:34 - tst - TypeError: __init__() got an unexpected keyword argument 'parent'
+2016-08-25 11:36:01,221 - entry.py:34 - tst - TypeError: QWidget(QWidget parent=None, Qt.WindowFlags flags=0): argument 1 has unexpected type 'QStackedLayout'
+2016-08-25 11:36:16,154 - entry.py:34 - tst - TypeError: object.__init__() takes no parameters
+2016-08-25 11:37:25,707 - entry.py:34 - tst - TypeError: 'QStackedLayout' object is not callable
+2016-08-25 11:37:46,790 - entry.py:34 - tst - TypeError: arguments did not match any overloaded call:
+  QWidget.setParent(QWidget): argument 1 has unexpected type 'QStackedLayout'
+  QWidget.setParent(QWidget, Qt.WindowFlags): argument 1 has unexpected type 'QStackedLayout'
+2016-08-25 11:39:12,870 - entry.py:34 - tst - TypeError: arguments did not match any overloaded call:
+  QWidget.setParent(QWidget): argument 1 has unexpected type 'QStackedLayout'
+  QWidget.setParent(QWidget, Qt.WindowFlags): argument 1 has unexpected type 'QStackedLayout'
+2016-08-25 11:39:24,293 - entry.py:34 - tst - TypeError: QTimer(QObject parent=None): argument 1 has unexpected type 'builtin_function_or_method'
+2016-08-25 11:44:55,562 - entry.py:34 - tst - TypeError: QTimer(QObject parent=None): argument 1 has unexpected type 'builtin_function_or_method'
+2016-08-25 11:45:02,669 - entry.py:34 - tst - AssertionError: 
+2016-08-25 11:46:21,944 - entry.py:34 - tst - AssertionError: 
+2016-08-25 11:46:32,005 - entry.py:34 - tst - AttributeError: 'QWidget' object has no attribute 'setCurrentWidget'
+2016-08-25 11:47:01,426 - entry.py:34 - tst - AttributeError: 'builtin_function_or_method' object has no attribute 'warn'
+2016-08-25 11:55:54,265 - entry.py:34 - tst - TypeError: QAbstractButton.setIconSize(QSize): argument 1 has unexpected type 'int'
+2016-08-25 11:57:50,427 - entry.py:34 - tst - TypeError: argument 1 has unexpected type 'bool'
+2016-08-25 12:00:00,217 - entry.py:34 - tst - TypeError: QWidget.setStyleSheet(str): not enough arguments
+2016-08-25 12:50:00,254 - entry.py:34 - tst - TypeError: arguments did not match any overloaded call:
+  QWidget.setMask(QBitmap): not enough arguments
+  QWidget.setMask(QRegion): not enough arguments
+2016-08-25 13:20:34,318 - entry.py:34 - tst - TypeError: __init__() missing 1 required positional argument: 'settings'
+2016-08-25 13:47:42,763 - entry.py:34 - tst - TypeError: QAudioDeviceInfo.availableDevices(QAudio.Mode): not enough arguments
+2016-08-25 13:48:21,761 - entry.py:34 - tst - TypeError: availableDevices() takes no keyword arguments
+2016-08-25 13:50:48,891 - entry.py:34 - tst - TypeError: availableDevices() takes no keyword arguments
+2016-08-25 14:09:22,172 - entry.py:34 - tst - AttributeError: 'list' object has no attribute 'map'
+2016-08-25 14:12:30,770 - entry.py:34 - tst - TypeError: 'NoneType' object is not iterable
+2016-08-25 14:13:18,134 - entry.py:34 - tst - TypeError: object of type 'NoneType' has no len()
+2016-08-25 14:42:14,973 - entry.py:34 - tst - TypeError: QFont.setPointSize(int): argument 1 has unexpected type 'str'
+2016-08-25 14:45:11,461 - entry.py:34 - tst - AttributeError: 'Config' object has no attribute 'text_spin_box'
+2016-08-25 15:17:56,597 - entry.py:34 - tst - TypeError: QComboBox.itemText(int): not enough arguments
+2016-08-25 15:20:37,381 - entry.py:34 - tst - AttributeError: can't set attribute
+2016-08-25 15:36:21,783 - entry.py:34 - tst - TypeError: QObject.setParent(QObject): argument 1 has unexpected type 'builtin_function_or_method'
+2016-08-25 15:36:47,668 - entry.py:34 - tst - AttributeError: 'MainWindowLogic' object has no attribute 'session'
+2016-08-25 15:37:21,849 - entry.py:34 - tst - AttributeError: 'builtin_function_or_method' object has no attribute 'warn'
+2016-08-25 15:55:11,243 - entry.py:34 - tst - TypeError: native Qt signal is not callable
+2016-08-25 16:01:34,102 - entry.py:34 - tst - TypeError: QLabel.setText(str): argument 1 has unexpected type 'dict'
+2016-08-25 16:02:54,306 - entry.py:34 - tst - TypeError: QLabel.setText(str): argument 1 has unexpected type 'dict'
+2016-08-25 16:14:26,441 - entry.py:34 - tst - TypeError: QObject.setParent(QObject): argument 1 has unexpected type 'builtin_function_or_method'
+2016-08-25 19:23:15,625 - entry.py:34 - tst - TypeError: QAbstractButton.setText(str): not enough arguments
+2016-08-25 19:40:27,700 - entry.py:34 - tst - TypeError: QCoreApplication.installTranslator(QTranslator): argument 1 has unexpected type 'bool'
+2016-08-25 19:40:38,185 - entry.py:34 - tst - TypeError: QCoreApplication.installTranslator(QTranslator): argument 1 has unexpected type 'bool'
+2016-08-25 19:40:42,234 - entry.py:34 - tst - TypeError: QCoreApplication.installTranslator(QTranslator): argument 1 has unexpected type 'bool'
+2016-08-25 19:41:00,984 - entry.py:34 - tst - TypeError: QCoreApplication.installTranslator(QTranslator): argument 1 has unexpected type 'bool'
+2016-08-25 19:42:44,066 - entry.py:34 - tst - TypeError: QCoreApplication.installTranslator(QTranslator): argument 1 has unexpected type 'bool'
+2016-08-25 19:51:39,152 - entry.py:34 - tst - NameError: name 'QMessageBox' is not defined
+2016-08-25 19:52:10,940 - entry.py:34 - tst - NameError: name 'answer' is not defined
+2016-08-26 10:22:13,161 - entry.py:34 - tst - ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/auth/login/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x05106AB0>: Failed to establish a new connection: [WinError 10061] ????????????????????????????',))
+2016-08-26 10:31:33,798 - entry.py:34 - tst - AttributeError: 'DataStore' object has no attribute 'get'
+2016-08-26 10:31:54,296 - entry.py:34 - tst - TypeError: 'DataStore' object is not subscriptable
+2016-08-26 10:32:28,254 - entry.py:34 - tst - AttributeError: 'NoneType' object has no attribute 'get'
+2016-08-26 10:32:54,744 - entry.py:34 - tst - AttributeError: 'NoneType' object has no attribute 'get'
+2016-08-26 10:34:34,982 - entry.py:34 - tst - AttributeError: 'builtin_function_or_method' object has no attribute 'warn'
+2016-08-26 10:37:01,860 - entry.py:34 - tst - AttributeError: 'DisplayWaitLogic' object has no attribute 'render_data'
+2016-08-26 10:37:36,696 - entry.py:34 - tst - AttributeError: 'DisplayWaitLogic' object has no attribute 'render_start_button'
+2016-08-26 10:39:05,322 - entry.py:34 - tst - AttributeError: 'QPushButton' object has no attribute 'connect'
+2016-08-26 10:40:18,099 - entry.py:34 - tst - TypeError: 'NoneType' object is not subscriptable
+2016-08-26 10:42:53,873 - entry.py:34 - tst - AttributeError: 'QPushButton' object has no attribute 'connect'
+2016-08-26 10:47:31,764 - entry.py:34 - tst - AttributeError: 'QPushButton' object has no attribute 'connect'
+2016-08-26 10:47:41,918 - entry.py:34 - tst - AttributeError: 'QPushButton' object has no attribute 'clickedconnect'
+2016-08-26 10:47:48,663 - entry.py:34 - tst - AttributeError: 'builtin_function_or_method' object has no attribute 'data'
+2016-08-26 10:48:59,991 - entry.py:34 - tst - AttributeError: 'DisplayWaitLogic' object has no attribute 'begin_call_over'
+2016-08-26 10:49:32,956 - entry.py:34 - tst - AttributeError: 'DisplayWaitLogic' object has no attribute 'begin_call_over'
+2016-08-26 10:54:31,937 - entry.py:34 - tst - KeyError: 'worker_status'
+2016-08-26 10:54:44,298 - entry.py:34 - tst - KeyError: 'worker_status'
+2016-08-26 10:57:03,750 - entry.py:34 - tst - AttributeError: 'DisplayWaitLogic' object has no attribute 'data'
+2016-08-26 10:57:18,958 - entry.py:34 - tst - KeyError: 'worker_status'
+2016-08-26 11:02:14,200 - entry.py:34 - tst - AttributeError: 'DisplayWaitLogic' object has no attribute 'open_camera_and_audio'
+2016-08-26 11:14:14,969 - entry.py:34 - tst - AttributeError: 'NoneType' object has no attribute 'connect'
+2016-08-26 13:43:08,506 - entry.py:34 - tst - AttributeError: 'MainWindowLogic' object has no attribute 'department'
+2016-08-26 13:44:17,733 - entry.py:34 - tst - TypeError: HttpRequest.success[dict].emit(): argument 1 has unexpected type 'list'
+2016-08-26 13:44:30,561 - entry.py:34 - tst - TypeError: HttpRequest.success[dict].emit(): argument 1 has unexpected type 'list'
+2016-08-26 13:44:51,051 - entry.py:34 - tst - TypeError: HttpRequest.success[dict].emit(): argument 1 has unexpected type 'list'
+2016-08-26 13:45:05,265 - entry.py:34 - tst - TypeError: HttpRequest.success[dict].emit(): argument 1 has unexpected type 'list'
+2016-08-26 13:45:27,645 - entry.py:34 - tst - TypeError: HttpRequest.success[dict].emit(): argument 1 has unexpected type 'list'
+2016-08-26 13:45:36,958 - entry.py:34 - tst - TypeError: HttpRequest.success[dict].emit(): argument 1 has unexpected type 'list'
+2016-08-26 13:45:47,604 - entry.py:34 - tst - TypeError: HttpRequest.success[dict].emit(): argument 1 has unexpected type 'list'
+2016-08-26 13:46:04,458 - entry.py:34 - tst - TypeError: native Qt signal is not callable
+2016-08-26 13:46:26,757 - entry.py:34 - tst - TypeError: native Qt signal is not callable
+2016-08-26 13:46:39,724 - entry.py:34 - tst - TypeError: native Qt signal is not callable
+2016-08-26 13:50:06,982 - entry.py:34 - tst - AttributeError: 'FigureCollectionLogic' object has no attribute 'session'
+2016-08-26 13:50:16,993 - entry.py:34 - tst - TypeError: __init__() missing 1 required positional argument: 'session'
+2016-08-26 14:07:38,753 - entry.py:34 - tst - NameError: name 'psMB' is not defined
+2016-08-26 14:14:44,646 - entry.py:34 - tst - UnboundLocalError: local variable 'pstz' referenced before assignment
+2016-08-26 14:15:10,177 - entry.py:34 - tst - UnboundLocalError: local variable 'pstz' referenced before assignment
+2016-08-26 14:15:46,497 - entry.py:34 - tst - UnboundLocalError: local variable 'pstz' referenced before assignment
+2016-08-26 14:18:35,532 - entry.py:34 - tst - FigureCollectFailed: 
+2016-08-26 14:29:15,794 - entry.py:34 - tst - UnboundLocalError: local variable 'tem' referenced before assignment
+2016-08-26 14:46:32,235 - entry.py:34 - tst - TypeError: disconnect() of all signals failed
+2016-08-26 14:46:59,767 - entry.py:34 - tst - TypeError: QPushButton.isSignalConnected(QMetaMethod): not enough arguments
+2016-08-27 11:10:00,952 - entry.py:34 - tst - ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/auth/login/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x06DB0D70>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2016-08-27 13:50:23,234 - entry.py:34 - tst - ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/auth/login/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x05D2FDD0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2016-08-27 15:37:28,315 - entry.py:34 - tst - AttributeError: 'DeviceCamera' object has no attribute 'startCapture'
+2016-08-27 15:37:41,381 - entry.py:34 - tst - AttributeError: 'cv2.VideoCapture' object has no attribute 'isOpen'
+2016-08-27 16:27:53,305 - entry.py:34 - tst - NameError: name 'cap' is not defined
+2016-08-27 16:28:25,822 - entry.py:34 - tst - AttributeError: 'DeviceCamera' object has no attribute 'c'
+2016-08-27 16:29:06,785 - entry.py:34 - tst - AttributeError: 'cv2.VideoWriter' object has no attribute 'relsese'
+2016-08-27 16:31:00,036 - entry.py:34 - tst - AttributeError: 'cv2.VideoWriter' object has no attribute 'relsese'
+2016-08-27 16:31:40,790 - entry.py:34 - tst - AttributeError: 'cv2.VideoWriter' object has no attribute 'relsese'
+2016-08-27 17:13:19,081 - entry.py:34 - tst - NameError: name 'm_pTitleLabel' is not defined
+2016-08-27 17:13:51,640 - entry.py:34 - tst - TypeError: arguments did not match any overloaded call:
+  QLayout.setContentsMargins(int, int, int, int): not enough arguments
+  QLayout.setContentsMargins(QMargins): argument 1 has unexpected type 'int'
+2016-08-27 17:14:23,295 - entry.py:34 - tst - NameError: name 'QtGui' is not defined
+2016-08-27 17:24:44,222 - entry.py:34 - tst - AttributeError: 'MainWindowLogic' object has no attribute 'titl'
+2016-08-28 12:45:54,875 - entry.py:34 - tst - ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/auth/login/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x064CAD90>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2016-08-29 11:42:40,944 - entry.py:34 - tst - KeyError: 'data'
+2016-08-29 16:49:06,461 - entry.py:34 - tst - ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2016-08-29 16:49:13,144 - entry.py:34 - tst - ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/auth/login/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x08318DF0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2016-08-29 16:49:33,722 - entry.py:34 - tst - KeyError: 'data'
+2016-08-29 16:50:05,570 - entry.py:34 - tst - KeyError: 'data'
+2016-08-29 17:21:24,688 - entry.py:34 - tst - ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2016-08-29 17:31:47,671 - entry.py:34 - tst - AttributeError: 'MainWindowLogic' object has no attribute 'device'
+2016-08-29 17:33:11,041 - entry.py:34 - tst - NameError: name 'post_figure' is not defined
+2016-08-29 17:35:20,903 - entry.py:34 - tst - AttributeError: 'CallOverScreenWidget' object has no attribute 'audio'
+2016-08-29 17:35:41,265 - entry.py:34 - tst - TypeError: native Qt signal is not callable
+2016-08-29 17:35:57,333 - entry.py:34 - tst - RuntimeError: wrapped C/C++ object of type QTimer has been deleted
+2016-08-29 17:36:25,559 - entry.py:34 - tst - RuntimeError: wrapped C/C++ object of type QTimer has been deleted
+2016-08-29 17:37:36,658 - entry.py:34 - tst - AttributeError: 'DisplayWaitLogic' object has no attribute 'check_figure'
+2016-08-29 17:37:49,912 - entry.py:34 - tst - AttributeError: 'MainWindowLogic' object has no attribute 'main_window'
+2016-08-29 17:38:34,586 - entry.py:34 - tst - AttributeError: 'MainWindowLogic' object has no attribute 'refresh_worker_status'
+2016-08-29 17:39:26,770 - entry.py:34 - tst - RuntimeError: wrapped C/C++ object of type QTimer has been deleted
+2016-08-29 17:39:50,207 - entry.py:34 - tst - RuntimeError: wrapped C/C++ object of type QTimer has been deleted
+2016-08-29 17:40:07,725 - entry.py:34 - tst - RuntimeError: wrapped C/C++ object of type QTimer has been deleted
+2016-08-29 17:40:44,727 - entry.py:34 - tst - RuntimeError: wrapped C/C++ object of type QTimer has been deleted
+2016-08-29 17:40:59,185 - entry.py:34 - tst - TypeError: native Qt signal is not callable
+2016-08-29 17:41:23,622 - entry.py:34 - tst - AttributeError: 'CallOverScreenWidget' object has no attribute 'audio'
+2016-08-29 17:41:38,006 - entry.py:34 - tst - AttributeError: 'CallOverScreenWidget' object has no attribute 'audio'
+2016-08-29 18:08:08,298 - entry.py:34 - tst - AttributeError: 'CallOverScreenWidget' object has no attribute 'audio'
+2016-08-29 18:13:01,477 - entry.py:34 - tst - TypeError: disconnect() of all signals failed
+2016-08-30 08:59:53,670 - entry.py:34 - tst - AttributeError: 'CallOverScreenWidget' object has no attribute 'audio'
+2016-08-30 13:26:36,188 - entry.py:34 - tst - ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2016-08-30 13:44:24,813 - entry.py:34 - tst - ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2016-08-30 15:39:55,510 - entry.py:34 - tst - TypeError: process_data() missing 1 required positional argument: 'font_size'
+2016-08-30 15:55:12,918 - entry.py:34 - tst - AttributeError: 'QFont' object has no attribute 'fontSize'
+2016-08-30 15:55:48,922 - entry.py:34 - tst - TypeError: QWidget.setFont(QFont): argument 1 has unexpected type 'NoneType'
+2016-08-30 16:05:21,368 - entry.py:34 - tst - ValueError: Single '}' encountered in format string
+2016-08-30 16:19:51,424 - entry.py:34 - tst - TypeError: __init__() missing 1 required positional argument: 'main_window'
+2016-08-30 16:21:22,821 - entry.py:34 - tst - TypeError: setAlignment() takes no keyword arguments
+2016-08-30 16:31:13,226 - entry.py:34 - tst - TypeError: QLabel.setText(str): too many arguments
+2016-08-30 16:43:33,888 - entry.py:34 - tst - AttributeError: 'AccidentDisplay' object has no attribute 'Content'
+2016-08-30 16:54:12,533 - entry.py:34 - tst - AttributeError: 'NoneType' object has no attribute 'close'
+2016-08-30 16:58:50,491 - entry.py:34 - tst - AttributeError: 'NoneType' object has no attribute 'close'
+2016-08-30 16:59:06,073 - entry.py:34 - tst - AttributeError: 'NoneType' object has no attribute 'close'
+2016-08-30 17:01:47,077 - entry.py:34 - tst - TypeError: QStackedWidget.removeWidget(QWidget): argument 1 has unexpected type 'int'
+2016-08-30 17:02:45,684 - entry.py:34 - tst - TypeError: 'QStackedWidget' object is not callable
+2016-08-30 17:08:54,596 - entry.py:34 - tst - TypeError: QBoxLayout.insertWidget(int, QWidget, int stretch=0, Qt.Alignment alignment=0): argument 1 has unexpected type 'QStackedWidget'
+2016-08-31 09:35:54,937 - entry.py:34 - tst - AttributeError: 'dict' object has no attribute 'id'
+2016-08-31 09:36:49,021 - entry.py:34 - tst - AttributeError: 'dict' object has no attribute 'id'
+2016-08-31 10:01:24,877 - entry.py:34 - tst - AttributeError: 'QMessageBox' object has no attribute 'OK'
+2016-08-31 10:07:25,789 - entry.py:34 - tst - AttributeError: 'tuple' object has no attribute 'replace'
+2016-08-31 10:07:51,231 - entry.py:34 - tst - AttributeError: 'tuple' object has no attribute 'replace'
+2016-08-31 10:17:33,575 - entry.py:34 - tst - AttributeError: 'LoginForm' object has no attribute 'timer'
+2016-08-31 10:17:37,376 - entry.py:34 - tst - AttributeError: 'LoginForm' object has no attribute 'timer'
+2016-08-31 10:17:58,894 - entry.py:34 - tst - AttributeError: 'LoginForm' object has no attribute 'timer'
+2016-08-31 10:18:22,288 - entry.py:34 - tst - AttributeError: 'NoneType' object has no attribute 'stop'
+2016-08-31 13:27:53,666 - entry.py:34 - tst - InvalidSchema: No connection adapters were found for 'localhost:3000/api/upload/call-over-audio/'
+2016-08-31 13:28:48,970 - entry.py:34 - tst - ConnectionError: HTTPConnectionPool(host='localhost', port=3000): Max retries exceeded with url: /api/upload/call-over-audio/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x09742EB0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2016-08-31 13:29:28,201 - entry.py:34 - tst - ChunkedEncodingError: ("Connection broken: ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None)", ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))
+2016-08-31 13:30:40,586 - entry.py:34 - tst - ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/auth/login/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x0A0FAEF0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2016-08-31 13:30:52,716 - entry.py:34 - tst - ConnectionError: ('Connection aborted.', ConnectionResetError(10054, '远程主机强迫关闭了一个现有的连接。', None, 10054, None))
+2016-08-31 13:32:49,483 - entry.py:34 - tst - TypeError: request() got an unexpected keyword argument 'file'
+2016-08-31 13:33:10,758 - entry.py:34 - tst - ValueError: too many values to unpack (expected 2)
+2016-08-31 13:40:10,078 - entry.py:34 - tst - ChunkedEncodingError: ("Connection broken: ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None)", ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))
+2016-08-31 13:41:06,857 - entry.py:34 - tst - ChunkedEncodingError: ("Connection broken: ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None)", ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))
+2016-08-31 13:41:48,664 - entry.py:34 - tst - ChunkedEncodingError: ("Connection broken: ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None)", ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))
+2016-08-31 15:03:54,411 - entry.py:34 - tst - ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/auth/login/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x08A979B0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))
+2016-08-31 15:04:00,405 - entry.py:34 - tst - ConnectionError: HTTPConnectionPool(host='127.0.0.1', port=8000): Max retries exceeded with url: /api/auth/login/ (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x07DE89D0>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。',))

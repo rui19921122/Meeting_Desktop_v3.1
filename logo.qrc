@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="logo">
+    <file>resource/png/NotHad.jpg</file>
+    <file>resource/png/Had.jpg</file>
+    <file>resource/png/config.png</file>
+    <file>resource/png/bg.jpg</file>
+    <file>resource/png/close.png</file>
+    <file>resource/png/max.png</file>
+    <file>resource/png/min.png</file>
+    <file>resource/png/shezhi.png</file>
+  </qresource>
+</RCC>
